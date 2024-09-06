@@ -1,4 +1,3 @@
-https://github.com/user-attachments/assets/7f619541-4122-4b45-819d-981cf8ac30e7
 # Hi, I'm Hardeep Dhiman 👋
 
 ## About Me
