@@ -1,6 +1,5 @@
-https://github.com/user-attachments/assets/0fb94e5a-080c-461c-b48b-608ec021db9c
-# Hi, I'm Hardeep Dhiman 
-👋
+https://github.com/user-attachments/assets/7f619541-4122-4b45-819d-981cf8ac30e7
+# Hi, I'm Hardeep Dhiman 👋
 
 ## About Me
 I'm a passionate **Data Analyst** with a background in Mechanical Engineering. After transitioning into the data field, I've honed my skills in:
