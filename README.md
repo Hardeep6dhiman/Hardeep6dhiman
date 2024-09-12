@@ -14,9 +14,15 @@ Here are some of the projects I've worked on:
    Created an interactive dashboard to analyze sales data, highlighting key performance metrics and trends, utilizes SQL for data extraction and transformation and Power BI for data visualization.
 
 2. **[Library Management Systm(SQL)](https://github.com/Hardeep6dhiman/Library_Management_System)**  
-  A Project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries.
+   A Project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries.
 
+3. **[Adventure Cycles Sales (Power BI)](https://github.com/Hardeep6dhiman/Adventure_Cycles_Sales_Project)**
+   Created an interactive dashboard to analyze sales data, highlighting key performance metric and trends, utilizes Power BI for data extraction, transformation and visualization.
 
+4. **[Coffee Sales (Microsoft Excel)](https://github.com/Hardeep6dhiman/Coffee_Sales)**
+   Created an intractive dashboard of Coffee sales to analuze sales data, key performance metric and trends, utilizes Microsoft Excel Function for creating and transforming table columns and Visualization.
+
+   
 ## Skills
 - **Languages:** SQL
 - **Tools:** Excel, Power BI, MySQL, Google Sheets
