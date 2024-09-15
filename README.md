@@ -19,9 +19,11 @@ Here are some of the projects I've worked on:
 3. **[Adventure Cycles Sales (Power BI)](https://github.com/Hardeep6dhiman/Adventure_Cycles_Sales_Project)**
    Created an interactive dashboard to analyze sales data, highlighting key performance metric and trends, utilizes Power BI for data extraction, transformation and visualization.
 
-5. **[Coffee Sales (Microsoft Excel)](https://github.com/Hardeep6dhiman/Coffee_Sales)**
-   Created an intractive dashboard of Coffee sales to analuze sales data, key performance metric and trends, utilizes Microsoft Excel Function for creating and transforming table columns and Visualization.
+4. **[Coffee Sales (Microsoft Excel)](https://github.com/Hardeep6dhiman/Coffee_Sales)**
+   Created an intractive dashboard of Coffee sales to analyze sales data, key performance metric and trends, utilizes Microsoft Excel Function for creating and transforming table columns and Visualization.
 
+5. **[Ecommerce Sales (Microsoft Excel)](https://github.com/Hardeep6dhiman/Ecommerce_Sales)**
+   Created an Intractive dashboard of Ecommerce Sales to analyse sales data, product category wise sales, Sales trends, utilizes Microsoft Excel Functions and Pivot table for Visualization.
    
 ## Skills
 - **Languages:** SQL
