@@ -1,4 +1,4 @@
-# Hi, I'm Hardeep Dhiman 👋
+# Hi, I'm Hardeep Dhiman 
 ![big-data-1667212_1280](https://github.com/user-attachments/assets/90076a28-c53a-4a05-a709-6d27f66f475d)
 
 ## About Me
